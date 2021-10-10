@@ -6,8 +6,6 @@ Hi there👋
 
 ![](https://komarev.com/ghpvc/?username=Hmue-gif&color=blue)<br>
 
-### <br>
-
 - 👨‍🏭 I’m currently **Studying at Computer University Mandalay** <br>
 - 🏫 I’m currently learning **HTML , CSS , JavaScript , Bootstrap ,JQuery ,Vuejs** <br>
 - 🤔 I’m looking for help with MMS IT Solution, Creative Coder Onlin Course<br>
@@ -16,8 +14,6 @@ Hi there👋
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
-
- 
 [![Twitter Badge](https://img.shields.io/badge/-@hmuethihanaung4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@hmuethihanaung4)](https://twitter.com/@hmuethihanaung4) 
 
 [![Instagram Badge](https://img.shields.io/badge/-Hmue_Thiha_Naung-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Hmue_Thiha_Naung)](https://www.instagram.com/Hmue_Thiha_Naung) 
