@@ -18,9 +18,11 @@ Hi there👋
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//) 
+ 
 [![Twitter Badge](https://img.shields.io/badge/-@@hmuethihanaung4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@hmuethihanaung4)](https://twitter.com/@hmuethihanaung4) 
+
 [![Facebook Badge](https://img.shields.io/badge/-Hmue Thiha Naung-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Hmue Thiha Naung)](https://www.facebook.com/Hmue Thiha Naung) 
+
 [![Instagram Badge](https://img.shields.io/badge/-@Hmue_Thiha_Naung-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Hmue_Thiha_Naung)](https://www.instagram.com/Hmue_Thiha_Naung) 
 
 
