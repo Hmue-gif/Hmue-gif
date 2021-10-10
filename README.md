@@ -6,7 +6,7 @@ Hi there👋
 
 ![](https://komarev.com/ghpvc/?username=Hmue-gif&color=blue)<br>
 
-### Trying to be a backend-devloper<br>
+### <br>
 
 - 👨‍🏭 I’m currently **Studying at Computer University Mandalay** <br>
 - 🏫 I’m currently learning **HTML , CSS , JavaScript , Bootstrap ,JQuery ,Vuejs** <br>
