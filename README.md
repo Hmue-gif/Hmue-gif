@@ -1,9 +1,8 @@
 I'm Hmue Thiha Naung👋
 
-<!--
-**Hmue-gif/Hmue-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently Studying at Computer University (Mandalay) ...
 - 🌱 I’m currently learning Html, Css, JavaScript, VueJs, React...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
