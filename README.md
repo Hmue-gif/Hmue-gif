@@ -1,14 +1,30 @@
 Hi there👋
 
-I'm Hmue Thiha Naung and now learning JavaScript ,VueJs ,React to become backend devloper. 
 
-
-# Hi ,I Am Hmue-Thiha-Naung! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
+# Hi ,I Am Hmue Thiha Naung! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
 
-- 🏫 I’m currently learning **Html,Css,JavaScript,Boorstrap,Jquery,Vuejs,react** <br>
+![](https://komarev.com/ghpvc/?username=Hmue-gif&color=blue)<br>
+
+### Trying to be a backend-devloper<br>
+
+- 👨‍🏭 I’m currently pursuing **Studying at Computer University Mandalay** <br>
+- 🏫 I’m currently learning **HTML , CSS , JavaScript , Bootstrap ,JQuery ,Vuejs** <br>
+- 🙌 I’m looking to collaborate on **** <br>
 - 🤔 I’m looking for help with ****<br>
-- 🥅 2021 Goals: to become backend devloper <br>
+- 🥅 2021 Goals: **to become a backend devloper** <br>
+
+
+### 🕵 Take a look at my repositories and let's get in touch!<br>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//) 
+[![Twitter Badge](https://img.shields.io/badge/-@@hmuethihanaung4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@hmuethihanaung4)](https://twitter.com/@hmuethihanaung4) 
+[![Facebook Badge](https://img.shields.io/badge/-Hmue Thiha Naung-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/Hmue Thiha Naung)](https://www.facebook.com/Hmue Thiha Naung) 
+[![Instagram Badge](https://img.shields.io/badge/-@Hmue_Thiha_Naung-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Hmue_Thiha_Naung)](https://www.instagram.com/Hmue_Thiha_Naung) 
+
+
+### 📈 Github Stats:
 
 
 <br>
@@ -21,3 +37,6 @@ I'm Hmue Thiha Naung and now learning JavaScript ,VueJs ,React to become backend
 </a>
 <br>
 <br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hmue-gif)](https://git.io/streak-stats)
+
