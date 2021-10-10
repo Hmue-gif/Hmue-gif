@@ -8,10 +8,9 @@ Hi there👋
 
 ### Trying to be a backend-devloper<br>
 
-- 👨‍🏭 I’m currently pursuing **Studying at Computer University Mandalay** <br>
+- 👨‍🏭 I’m currently **Studying at Computer University Mandalay** <br>
 - 🏫 I’m currently learning **HTML , CSS , JavaScript , Bootstrap ,JQuery ,Vuejs** <br>
-- 🙌 I’m looking to collaborate on **** <br>
-- 🤔 I’m looking for help with ****<br>
+- 🤔 I’m looking for help with MMS IT Solution, Creative Coder Onlin Course<br>
 - 🥅 2021 Goals: **to become a backend devloper** <br>
 
 
