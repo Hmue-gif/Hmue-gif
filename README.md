@@ -7,9 +7,9 @@ Hi there👋
 ![](https://komarev.com/ghpvc/?username=Hmue-gif&color=blue)<br>
 
 - 👨‍🏭 I’m currently **Studying at Computer University Mandalay** <br>
-- 🏫 I’m currently learning **HTML , CSS , JavaScript , Bootstrap ,JQuery ,Vuejs ,React** <br>
+- 🏫 I’m currently learning **HTML , CSS , Tailwind , JavaScript , Bootstrap , JQuery , Vuejs , Firebase** <br>
 - 🤔 I’m looking for help with MMS IT Solution, Creative Coder Online Course<br>
-- 🥅 2021 Goals: **to become a backend devloper** <br>
+- 🥅 2021 Goals: **trying to become a web devloper** <br>
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
