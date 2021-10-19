@@ -19,7 +19,7 @@ Hi there👋
 [![Instagram Badge](https://img.shields.io/badge/-Hmue_Thiha_Naung-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Hmue_Thiha_Naung)](https://www.instagram.com/Hmue_Thiha_Naung) 
 
 
-### 📈 Github Stats:
+### 📈 Github Status:
 
 <br>
 <a href="https://github.com/Hmue-gif">
