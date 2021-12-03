@@ -1,35 +1,36 @@
-Hi there👋
+<h1 align="center">Hi 👋, I'm Hmue Thiha Naung</h1>
+<h3 align="center">trying to be a web developer in future</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hmue-gif&label=Profile%20views&color=0e75b6&style=flat" alt="hmue-gif" /> </p>
 
-# Hi ,I Am Hmue Thiha Naung! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
-<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmue-gif" alt="hmue-gif" /></a> </p>
 
-![](https://komarev.com/ghpvc/?username=Hmue-gif&color=blue)<br>
+- 🌱 I’m currently learning **Html,Css,Bootstrap,Jquery,Javascript,VueJs,React,Php**
 
-- 👨‍🏭 I’m currently **Studying at Computer University Mandalay** <br>
-- 🏫 I’m currently learning **HTML , CSS , Tailwind , JavaScript , Bootstrap , JQuery , Vuejs , Firebase** <br>
-- 🤔 I’m looking for help with MMS IT Solution, Creative Coder Online Course<br>
-- 🥅 2021 Goals: **trying to become a web devloper** <br>
+- 🤝 I’m looking for help with **Creative Coders,MMS IT Solution,Turing Programming Training**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Hmue-gif](https://github.com/Hmue-gif)
 
-### 🕵 Take a look at my repositories and let's get in touch!<br>
+- 💬 Ask me about **Web Design**
 
-[![Twitter Badge](https://img.shields.io/badge/-@hmuethihanaung4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@hmuethihanaung4)](https://twitter.com/@hmuethihanaung4) 
+- 📫 How to reach me **hmuethihanaung@gmail.com**
 
-[![Instagram Badge](https://img.shields.io/badge/-Hmue_Thiha_Naung-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/Hmue_Thiha_Naung)](https://www.instagram.com/Hmue_Thiha_Naung) 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@hmuethihanaung4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hmuethihanaung4" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hmue thiha naung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hmue thiha naung" height="30" width="40" /></a>
+<a href="https://fb.com/hmue thiha naung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hmue thiha naung" height="30" width="40" /></a>
+<a href="https://instagram.com/hmue_thiha_naung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hmue_thiha_naung" height="30" width="40" /></a>
+<a href="https://medium.com/@hmue thiha naung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hmue thiha naung" height="30" width="40" /></a>
+</p>
 
-### 📈 Github Status:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<br>
-<a href="https://github.com/Hmue-gif">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hmue-gif&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
-</a>
-<br><br>
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Hmue-gif&layout=compact&theme=blue-green" />
-</a>
-<br>
-<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmue-gif&show_icons=true&locale=en&layout=compact" alt="hmue-gif" /></p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmue-gif&show_icons=true&locale=en" alt="hmue-gif" /></p>
