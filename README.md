@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hmue Thiha Naung</h1>
 <h2 align="center">trying to be a web developer in my future</h2>
 
-<img src="https://scontent-sin6-4.xx.fbcdn.net/v/t1.6435-9/c0.78.304.304a/p180x540/102828880_263669708219782_492280145980193626_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=da31f3&_nc_ohc=nd840Wa2tJkAX8JSGub&tn=IO0CZfH_n1U6PhwV&_nc_ht=scontent-sin6-4.xx&oh=36242d550a0643612f269d0046c2cf97&oe=61CECA1A" style="width:100%; height:50%">
+<img src="me.jpg" alt="me" style="width:100%; height:50%">
 
 - 🌱 I’m currently learning **Html, Css, Bootstrap, Jquery, Javascript, VueJs, React, Php**
 
