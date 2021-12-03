@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hmue Thiha Naung</h1>
 <h2 align="center">trying to be a web developer in my future</h2>
 
+<img src="https://scontent-sin6-2.xx.fbcdn.net/v/t1.6435-9/s851x315/180045934_471880100732074_2639027797068610434_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=da31f3&_nc_ohc=vIdc5VTR3a8AX8yXwWR&_nc_ht=scontent-sin6-2.xx&oh=25443a3fe4921bf887e2a08c353b6206&oe=61CF8F39">
+
 - 🌱 I’m currently learning **Html, Css, Bootstrap, Jquery, Javascript, VueJs, React, Php**
 
 - 🤝 I’m looking for help with **Creative Coders,MMS IT Solution,Turing Programming Training**
